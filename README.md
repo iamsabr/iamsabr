@@ -4,7 +4,7 @@
 #### I'm an amatuer (casual) developer from Texas.
 
 - 🏢 I'm working in the legal technology industry (for the past 25 years)
-- ⚙️ I use daily: `.powershell`, `.sql`, `.python`, `.html`, `.css`, `.png`, `.json`, `.obsidian`, `.yaml`
+- ⚙️ I use daily: `.powershell`, `.sql`, `.python`, `.html`, `.css`, `.json`, `.obsidian`, `.yaml`
 - 🌱 Learning more about and studying: **Generative AI, PowerShell**, **python**, **Javascript**
 - 🎮 Game with me:
   -   **black desert online**

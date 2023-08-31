@@ -9,7 +9,7 @@
 - 🎮 Game with me:
   -   **black desert online**
   -   **guild wars 2**
-  -   **cypher system/numenera**, **Dragonsbane**, **PbtA**, **City of Mist**
+  -   **cypher system/numenera**, **dragonbane**, **PbtA**, **city of mist**
   -   **age of sigmar, warcy, wfrp (miniatures and roleplay)**
 - 📫 Reach me: [mastodon - dice.com](https://dice.camp/@sabr) or [via email](mailto:contact@sabr.one)
 - 💜 Interests: huge tabletop and video gamer, generative ai, windows, disney, travel

@@ -4,7 +4,7 @@
 #### I'm a technology enthusiast from Texas.
 
 - 🏢 I'm work in the legal technology industry (for the past 26 years)
-- ⚙️ I use daily: `.powershell`, `.sql`, `.python`, `.html`, `.css`, `.json`, `.obsidian`, `.yaml`
+- ⚙️ I use daily: `.powershell`, `.sql`, `.html`, `.css`, `.json`, `.obsidian`, `.yaml`
 - 🌱 Learning more about and studying: **Generative AI**, **PowerShell**, **lua**, **Javascript**
 - 🎮 Game with me:
   -   **black desert online**

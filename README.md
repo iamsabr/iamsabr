@@ -5,6 +5,7 @@
 
 - 🏢 I'm work in the legal technology industry (for the past 26 years)
 - ⚙️ I use daily: `.powershell`, `.sql`, `.html`, `.css`, `.json`, `.obsidian`, `.yaml`
+<<<<<<< HEAD
 - 🌱 Learning more about and studying: **Generative AI**, **PowerShell**, **lua**, **neovim**
 - 🎮 Game with me:
   -   **black desert online**
